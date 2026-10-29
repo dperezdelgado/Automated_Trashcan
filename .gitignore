@@ -1,0 +1,32 @@
+
+# Raw and processed datasets
+data/raw/
+data/processed/
+
+# Trained model weights
+models/
+*.pt
+*.pth
+*.onnx
+*.keras
+
+# Training outputs and generated images
+results/
+runs/
+
+# Python cache and virtual environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Secrets and local settings
+.env
+.env.*
+
+# Operating system files
+.DS_Store
+Thumbs.db

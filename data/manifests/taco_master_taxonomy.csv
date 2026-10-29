@@ -1,0 +1,61 @@
+﻿category_id,source_category,object_identity,proposed_material,hazard_or_handling_flag,annotation_count,training_readiness,notes
+0,Aluminium foil,aluminium_foil,metal,STANDARD_REVIEW,62,CANDIDATE_REVIEW,Candidate category; inspect samples and annotation quality.
+1,Battery,battery,unknown_or_composite,BATTERY_SPECIAL_HANDLING,2,SUPPLEMENT_REQUIRED,Only two annotations in this TACO report; obtain more data.
+2,Aluminium blister pack,aluminium_blister_pack,unknown_or_composite,STANDARD_REVIEW,6,LOW_DATA_RETAIN,Preserve category; gather more examples before dedicated training.
+3,Carded blister pack,carded_blister_pack,unknown_or_composite,STANDARD_REVIEW,1,LOW_DATA_RETAIN,Preserve category; gather more examples before dedicated training.
+4,Other plastic bottle,other_plastic_bottle,plastic,STANDARD_REVIEW,50,CANDIDATE_REVIEW,Candidate category; inspect samples and annotation quality.
+5,Clear plastic bottle,clear_plastic_bottle,plastic,STANDARD_REVIEW,285,CANDIDATE_REVIEW,Candidate category; inspect samples and annotation quality.
+6,Glass bottle,glass_bottle,glass,STANDARD_REVIEW,104,CANDIDATE_REVIEW,Candidate category; inspect samples and annotation quality.
+7,Plastic bottle cap,plastic_bottle_cap,plastic,STANDARD_REVIEW,209,CANDIDATE_REVIEW,Candidate category; inspect samples and annotation quality.
+8,Metal bottle cap,metal_bottle_cap,metal,STANDARD_REVIEW,80,CANDIDATE_REVIEW,Candidate category; inspect samples and annotation quality.
+9,Broken glass,broken_glass,glass,SHARP_OBJECT_REVIEW,138,CANDIDATE_REVIEW,Candidate category; inspect samples and annotation quality.
+10,Food Can,food_can,metal,STANDARD_REVIEW,34,CANDIDATE_REVIEW,Candidate category; inspect samples and annotation quality.
+11,Aerosol,aerosol,unknown_or_composite,HAZARD_REVIEW,10,LOW_DATA_RETAIN,Preserve category; gather more examples before dedicated training.
+12,Drink can,drink_can,metal,STANDARD_REVIEW,229,CANDIDATE_REVIEW,Candidate category; inspect samples and annotation quality.
+13,Toilet tube,toilet_tube,cardboard,STANDARD_REVIEW,5,LOW_DATA_RETAIN,Preserve category; gather more examples before dedicated training.
+14,Other carton,other_carton,unknown_or_composite,STANDARD_REVIEW,93,MATERIAL_REVIEW,Identity retained; material needs verification.
+15,Egg carton,egg_carton,cardboard,STANDARD_REVIEW,11,LOW_DATA_RETAIN,Preserve category; gather more examples before dedicated training.
+16,Drink carton,drink_carton,unknown_or_composite,STANDARD_REVIEW,45,MATERIAL_REVIEW,Identity retained; material needs verification.
+17,Corrugated carton,corrugated_carton,cardboard,STANDARD_REVIEW,64,CANDIDATE_REVIEW,Candidate category; inspect samples and annotation quality.
+18,Meal carton,meal_carton,unknown_or_composite,STANDARD_REVIEW,30,MATERIAL_REVIEW,Identity retained; material needs verification.
+19,Pizza box,pizza_box,cardboard,STANDARD_REVIEW,3,LOW_DATA_RETAIN,Preserve category; gather more examples before dedicated training.
+20,Paper cup,paper_cup,unknown_or_composite,STANDARD_REVIEW,67,MATERIAL_REVIEW,Identity retained; material needs verification.
+21,Disposable plastic cup,disposable_plastic_cup,plastic,STANDARD_REVIEW,104,CANDIDATE_REVIEW,Candidate category; inspect samples and annotation quality.
+22,Foam cup,foam_cup,unknown_or_composite,STANDARD_REVIEW,13,LOW_DATA_RETAIN,Preserve category; gather more examples before dedicated training.
+23,Glass cup,glass_cup,glass,STANDARD_REVIEW,6,LOW_DATA_RETAIN,Preserve category; gather more examples before dedicated training.
+24,Other plastic cup,other_plastic_cup,plastic,STANDARD_REVIEW,2,LOW_DATA_RETAIN,Preserve category; gather more examples before dedicated training.
+25,Food waste,food_waste,organic,STANDARD_REVIEW,8,LOW_DATA_RETAIN,Preserve category; gather more examples before dedicated training.
+26,Glass jar,glass_jar,glass,STANDARD_REVIEW,6,LOW_DATA_RETAIN,Preserve category; gather more examples before dedicated training.
+27,Plastic lid,plastic_lid,plastic,STANDARD_REVIEW,77,CANDIDATE_REVIEW,Candidate category; inspect samples and annotation quality.
+28,Metal lid,metal_lid,metal,STANDARD_REVIEW,10,LOW_DATA_RETAIN,Preserve category; gather more examples before dedicated training.
+29,Other plastic,other_plastic,plastic,STANDARD_REVIEW,273,CANDIDATE_REVIEW,Candidate category; inspect samples and annotation quality.
+30,Magazine paper,magazine_paper,paper,STANDARD_REVIEW,12,LOW_DATA_RETAIN,Preserve category; gather more examples before dedicated training.
+31,Tissues,tissues,paper,STANDARD_REVIEW,42,CANDIDATE_REVIEW,Candidate category; inspect samples and annotation quality.
+32,Wrapping paper,wrapping_paper,paper,STANDARD_REVIEW,12,LOW_DATA_RETAIN,Preserve category; gather more examples before dedicated training.
+33,Normal paper,normal_paper,paper,STANDARD_REVIEW,82,CANDIDATE_REVIEW,Candidate category; inspect samples and annotation quality.
+34,Paper bag,paper_bag,paper,STANDARD_REVIEW,27,LOW_DATA_RETAIN,Preserve category; gather more examples before dedicated training.
+35,Plastified paper bag,plastified_paper_bag,unknown_or_composite,STANDARD_REVIEW,0,LOW_DATA_RETAIN,Preserve category; gather more examples before dedicated training.
+36,Plastic film,plastic_film,plastic,STANDARD_REVIEW,451,CANDIDATE_REVIEW,Candidate category; inspect samples and annotation quality.
+37,Six pack rings,six_pack_rings,unknown_or_composite,STANDARD_REVIEW,5,LOW_DATA_RETAIN,Preserve category; gather more examples before dedicated training.
+38,Garbage bag,garbage_bag,unknown_or_composite,STANDARD_REVIEW,31,MATERIAL_REVIEW,Identity retained; material needs verification.
+39,Other plastic wrapper,other_plastic_wrapper,plastic,STANDARD_REVIEW,260,CANDIDATE_REVIEW,Candidate category; inspect samples and annotation quality.
+40,Single-use carrier bag,single_use_carrier_bag,plastic,STANDARD_REVIEW,61,CANDIDATE_REVIEW,Candidate category; inspect samples and annotation quality.
+41,Polypropylene bag,polypropylene_bag,plastic,STANDARD_REVIEW,3,LOW_DATA_RETAIN,Preserve category; gather more examples before dedicated training.
+42,Crisp packet,crisp_packet,unknown_or_composite,STANDARD_REVIEW,39,MATERIAL_REVIEW,Identity retained; material needs verification.
+43,Spread tub,spread_tub,unknown_or_composite,STANDARD_REVIEW,9,LOW_DATA_RETAIN,Preserve category; gather more examples before dedicated training.
+44,Tupperware,tupperware,plastic,STANDARD_REVIEW,4,LOW_DATA_RETAIN,Preserve category; gather more examples before dedicated training.
+45,Disposable food container,disposable_food_container,unknown_or_composite,STANDARD_REVIEW,38,MATERIAL_REVIEW,Identity retained; material needs verification.
+46,Foam food container,foam_food_container,unknown_or_composite,STANDARD_REVIEW,15,LOW_DATA_RETAIN,Preserve category; gather more examples before dedicated training.
+47,Other plastic container,other_plastic_container,plastic,STANDARD_REVIEW,6,LOW_DATA_RETAIN,Preserve category; gather more examples before dedicated training.
+48,Plastic glooves,plastic_glooves,unknown_or_composite,STANDARD_REVIEW,4,LOW_DATA_RETAIN,Preserve category; gather more examples before dedicated training.
+49,Plastic utensils,plastic_utensils,plastic,STANDARD_REVIEW,37,CANDIDATE_REVIEW,Candidate category; inspect samples and annotation quality.
+50,Pop tab,pop_tab,metal,STANDARD_REVIEW,99,CANDIDATE_REVIEW,Candidate category; inspect samples and annotation quality.
+51,Rope & strings,rope_strings,unknown_or_composite,STANDARD_REVIEW,29,LOW_DATA_RETAIN,Preserve category; gather more examples before dedicated training.
+52,Scrap metal,scrap_metal,metal,STANDARD_REVIEW,20,LOW_DATA_RETAIN,Preserve category; gather more examples before dedicated training.
+53,Shoe,shoe,unknown_or_composite,STANDARD_REVIEW,7,LOW_DATA_RETAIN,Preserve category; gather more examples before dedicated training.
+54,Squeezable tube,squeezable_tube,unknown_or_composite,STANDARD_REVIEW,7,LOW_DATA_RETAIN,Preserve category; gather more examples before dedicated training.
+55,Plastic straw,plastic_straw,plastic,STANDARD_REVIEW,157,CANDIDATE_REVIEW,Candidate category; inspect samples and annotation quality.
+56,Paper straw,paper_straw,paper,STANDARD_REVIEW,4,LOW_DATA_RETAIN,Preserve category; gather more examples before dedicated training.
+57,Styrofoam piece,styrofoam_piece,unknown_or_composite,STANDARD_REVIEW,112,MATERIAL_REVIEW,Identity retained; material needs verification.
+58,Unlabeled litter,unlabeled_litter,unknown_or_composite,UNKNOWN_IDENTITY,517,IDENTITY_UNKNOWN,Preserve source annotation; do not assign a guessed identity.
+59,Cigarette,cigarette,unknown_or_composite,FIRE_AND_RESIDUE_REVIEW,667,MATERIAL_REVIEW,Identity retained; material needs verification.
