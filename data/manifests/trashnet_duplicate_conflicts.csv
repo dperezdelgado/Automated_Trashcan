@@ -1,0 +1,7 @@
+﻿"SHA256","Class","RelativePath","Decision"
+"107d33542ed03e023d51643bfc0d99087f452804429ff365faa82d11350aa82d","glass","glass/glass389.jpg","Exclude from CNN splits; retain raw file"
+"107d33542ed03e023d51643bfc0d99087f452804429ff365faa82d11350aa82d","plastic","plastic/plastic332.jpg","Exclude from CNN splits; retain raw file"
+"2f8fe861f62a477208d3a60223b3ae60bb7be9ef13335efaed278ba1aaa41c68","glass","glass/glass115.jpg","Exclude from CNN splits; retain raw file"
+"2f8fe861f62a477208d3a60223b3ae60bb7be9ef13335efaed278ba1aaa41c68","metal","metal/metal91.jpg","Exclude from CNN splits; retain raw file"
+"bd0bd41019a16f85d51a8901b246ff7861f6ae467f8a2e211af6aaed3cabd430","glass","glass/glass176.jpg","Exclude from CNN splits; retain raw file"
+"bd0bd41019a16f85d51a8901b246ff7861f6ae467f8a2e211af6aaed3cabd430","plastic","plastic/plastic152.jpg","Exclude from CNN splits; retain raw file"
